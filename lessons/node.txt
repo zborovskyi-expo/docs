@@ -1,0 +1,108 @@
+Building NodeJs Shopping Cart with Express Framework and MongoDB - Part 1
+Building Shopping Cart with Express Framework and MongoDB - Part 2
+Sequelize Migration - YouTube
+WebEng  Dummy Bank App, Sequelize Migrations, Database Transactions
+
+
+1. WebSockets (using Socket.io) Tutorial #1 - What Are WebSockets
+2. WebSockets (using Socket.io) Tutorial #2 - Creating an Express App
+3. WebSockets (using Socket.io) Tutorial #3 - Using Socket.io
+4. WebSockets (using Socket.io) Tutorial #4 - Emitting Messages
+5. WebSockets (using Socket.io) Tutorial #5 - Broadcasting Messages
+
+
+1. Sequelize  An Introduction (1 TBD)
+2. Sequelize  Getting Started (2 TBD)
+3. Sequelize  Defining Models (3 TBD)
+4. Sequelize  Validation (4 TBD)
+5. Sequelize  Hooks (5 TBD)
+6. Sequelize  Inserting Data (6 TBD)
+
+Build a GraphQL server for Node.js, using PostgreSQL MySQL
+Build a GraphQL Server with Node.js
+GraphQL server tutorial for Node.js with SQL, MongoDB and REST
+
+1. GraphQL + NodeJS + MongoDB Tutorial 1 of 6   Setting Up NodeJS Project
+2. GraphQL + NodeJS + MongoDB Tutorial 2 of 6   Mongoose Model Setup
+3. GraphQL + NodeJS + MongoDB Tutorial 3 of 6   GraphQL Types
+4. GraphQL + NodeJS + MongoDB Tutorial 4 of 6   GraphQL Queries
+5. GraphQL + NodeJS + MongoDB Tutorial 5 of 6   GraphQL Mutations
+6. GraphQL + NodeJS + MongoDB Tutorial 6 of 6   GraphQL in Action
+
+1. WebSockets (using Socket.io) Tutorial #1 - What Are WebSockets
+2. WebSockets (using Socket.io) Tutorial #2 - Creating an Express App
+3. WebSockets (using Socket.io) Tutorial #3 - Using Socket.io
+4. WebSockets (using Socket.io) Tutorial #4 - Emitting Messages
+5. WebSockets (using Socket.io) Tutorial #5 - Broadcasting Messages
+
+1. Build a Reddit API Clone with Node.js, Express and MongoDB - Part 1 - Tutorial - 2017
+2. Build a Reddit API Clone with Node.js, Express and MongoDB - Part 2 - Tutorial - 2017
+
+
+01. NodeJS#1 - HTML & CSS
+02. NodeJS#2 - Responsive with Bootstrap
+03. NodeJS#3 - Hello Expressjs
+04. NodeJS#4 - Static Assets
+05. NodeJS#5 - Pug Template Engine
+06. NodeJS#6 - Handlebar Template Engine
+07. NodeJS#7 - Layout
+08. NodeJs#8 - Partials & Helpers
+09. NodeJS#9 - Client Server Interaction (Route Params)
+10. NodeJS#10 - Client Server Interaction (Query Params)
+11. NodeJS#11 - Client Server Interaction (Post Params)
+12. NodeJS#12 - MVC (Seperate logic objects)
+13. NodeJS#13 - MVC (Modularize Model, View and Controller)
+14. NodeJS#14 - MVC (Modularize Config, Views, Helpers)
+15. NodeJS#15 - Connect to Postgres (Pool, Connection, Query)
+16. NodeJS#16 - Connect to Postgres (Pool Parameter, Query, Refactor)
+17. NodeJS#17 - Deploy to Heroku (config bower, database, environments)
+
+
+01. REST API Tutorial #1 - What is a REST API
+02. REST API Tutorial (Node, Express & Mongo) #2 -Setting up Node.js
+03. REST API Tutorial (Node, Express & Mongo) #3 - HTTP Methods
+04. REST API Tutorial (Node, Express & Mongo) #4 - Creating an Express App
+05. REST API Tutorial (Node, Express & Mongo) #5 - Handling Requests
+06. REST API Tutorial (Node, Express & Mongo) #6 - Creating Routes
+07. REST API Tutorial (Node, Express & Mongo) #6.5 - Postman
+08. REST API Tutorial (Node, Express & Mongo) #7 - Handling POST Requests (& middleware)
+09. REST API Tutorial (Node, Express & Mongo) #8 - Models & Schemas
+10. REST API Tutorial (Node, Express & Mongo) #9 - Saving Data to MongoDB
+11. REST API Tutorial (Node, Express & Mongo) #10 - Error Handling
+12. REST API Tutorial (Node, Express & Mongo) #11 - Handling DELETE Requests
+13. REST API Tutorial (Node, Express & Mongo) #12 - PUT Requests
+14. REST API Tutorial (Node, Express & Mongo) #13 - GeoJSON
+15. REST API Tutorial (Node, Express & Mongo) #14 - GET Requests
+16. REST API Tutorial (Node, Express & Mongo) #15 - Creating a Front-end
+17. REST API Tutorial (Node, Express & Mongo) #16 - Creating a React Component
+
+
+01. Node.js API testável #1 - Setup com ES6 + Babel + Express
+02. Node.js API testável #2 - Integration tests com Mocha, Chai e supertest
+03. Node.js API testável #3 - Routes e Database com Sequelize e Sqlite3
+04. Node.js API testável #4 - Models com Sequelize
+05. Node.js API testável #5 - Operações de CRUD (Create, Read, Update, Delete)
+06. Node.js API testável #6 - Garantindo o padrão de código com ESlint
+07. Node.js API testável #7 - Controllers e testes de unidade (Unit Tests)
+08. Node.js API testável #8 - Controllers e testes de unidade (Unit tests) pt.2
+09. Node.js API testável #9 - Controllers e testes de unidade (Unit Tests) pt.3
+10. Node.js API testável #10 - Routes e Controller
+11. Node.js API testável #11 - Testes de contrato (contract tests)
+12. Node.js API testável #12 - Testes de contrato (contract tests) pt.2
+13. Node.js API testável #13 - HttpStatus e encriptação de senha de usuario com bcrypt
+14. Node.js API testável #14 - Criando usuarios na API
+15. Node.js API testável #15 - Autenticando com Json Web Token e Passport.js
+16. Node.js API testável #16 - Finalizando a API
+17. Waldemar Neto - Construindo APIs testáveis com Node.js - RSJS 2017
+
+
+01. KnexJS Tutorial - 1 - Introduction
+02. KnexJS Tutorial - 2 - Getting Started
+03. KnexJS Tutorial - 3 - Creating Migrations files
+04. KnexJS Tutorial - 4 - Seeding the DB in Postgres
+05. KnexJS Tutorial - 5 - Select all rows or one row in Postgres
+06. KnexJS Tutorial - 6 - Insert rows in Postgres
+07. KnexJS Tutorial - 7 - Updating rows in Postgres
+08. KnexJS Tutorial - 8 - Remove or delete rows in Postgres Node
+09. KnexJS Tutorial - 9 - Inner Joins in Postgres
+10. Populate fields in knex using knex-populate

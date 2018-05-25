@@ -1,0 +1,36 @@
+Angular 2 Auth0 Application
+Angular 2 Full MEAN Stack Application
+Angular 4 In 60 Minutes
+Angular 4 Tutorial 17  Login App - Part 1
+Angular 4 Tutorial 18  Login App - Part 2
+Angular Reactive Forms Tutorial (Angular 4)
+Build a Full Angular Authentication System with Firebase (Tutorial)
+New Angular 4.3 HttpClient (Accessing REST Web Services With Angular)
+
+1. Build a Full Angular Authentication System with Firebase (Tutorial)
+2. Build an App using Angular Material (Tutorial)
+3. How to Make an Angular Firebase Chat App (Tutorial)
+4. A Simple Angular 4 Firebase Tutorial
+5. Angular Reactive Forms Tutorial (Angular 4)
+6. Angular 4 Material Tutorial
+7. Angular 4 SEO Tutorial (Universal + Angular CLI)
+
+1. Angular 4 New Features and Improvements
+2. Building Universal Apps in Angular 4
+3. Building Shopping Cart with Universal Apps in Angular 4
+4. Building a ToDo List Application with Local Storage in Angular 4
+
+Angular 4 Tutorial - CRUD Operations (get put post delete) #1
+Angular 4 Tutorial - CRUD Operations (get put post delete) #2
+Angular 4 Tutorial - CRUD Operations (get put post delete) #3
+
+Angular 2 Spotify App - Updating to RC6
+Build An Angular 2 Spotify App - Part 1
+Build An Angular 2 Spotify App - Part 2
+Build An Angular 2 Spotify App - Part 3
+Build An Angular 2 Spotify App - Part 4
+Build An Angular 2 Spotify App - Part 5
+Build An Angular 2 Spotify App - Part 6
+Build An Angular 2 Spotify App - Part 7
+
+Building Universal Apps in Angular 4

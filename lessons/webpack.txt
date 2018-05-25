@@ -1,0 +1,21 @@
+01. Webpack 2 — #1 — Знакомство
+02. Webpack 2 — #2 — Создаём наше первое приложение
+03. Webpack 2 — #3 — Локальный сервер, watch
+04. Webpack 2 — #4 — Pug
+05. Webpack 2 — #5 — Webpack dev server
+06. Webpack 2 — #6 — Production & Development
+07. Webpack 2 — #7 — Разделяем конфиг на модули
+08. Webpack 2 — #8 — SASS - YouTube
+09. Webpack 2 — #9 — Подключаем CSS-модули
+10. Webpack 2 — #10 — Подключаем CSS отдельным файлом
+11. Webpack 2 — #11 — CommonsChunkPlugin. Выносим общий код
+12. Webpack 2 — #12 — ProvidePlugin
+13. Webpack 2 — #13 — UglifyJsPlugin
+14. Webpack 2 — #14 — Добавляем картинки, file-loader
+
+Настройка Webpack + Babel + Dev-server. Что, как и почему
+
+1. Webpack - #1 - Знакомимся с сборщиком модулей
+2. Webpack - #2 - Как подключить внешние библиотеки и ес6
+3. Webpack - #3 - Разбираемся с css
+4. Webpack - #4 - Разбираемся с шаблонами

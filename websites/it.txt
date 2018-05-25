@@ -1,0 +1,13 @@
+http://jstherightway.org/ru-ru/#js-code-style
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know
+
+https://scotch.io/courses/10-need-to-know-javascript-concepts/basic-design-patterns
+
+https://webpack.js.org/
+
+http://usercrm-closee.herokuapp.com/
+
+https://www.canva.com/design/DABxC1Bm5o4/9CW5V9JbacmjwRAzmzm1mQ/edit

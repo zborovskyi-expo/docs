@@ -1,0 +1,16 @@
+01. Vue.js CryptoCurrency Tutorial - Display Exchange Data with an API
+02. React CryptoCurrency Tutorial - Display Exchange Data with an API
+03. Angular CryptoCurrency Tutorial - Display Exchange Data with an API
+04. 01. Smart Contracts and Decentralized Apps 101
+05. 02. Solidity Variables and Types (Smart Contract Tutorial)
+06. 03. Web3.js Tutorial - Attach a GUI to your Ethereum Smart Contract
+07. 04. Capturing Smart Contract Events in our User Interface (Solidity)
+08. 05. Solidity Function Modifiers - Controlling Smart Contract Functions
+09. 06. Solidity Mappings & Structs Tutorial
+10. 07. Solidity Inheritance Tutorial & Deploying the Contract
+11. 08. Finishing the Smart Contract and Using it on Ropsten
+12. Developing Ethereum Smart Contracts for Beginners (Trailer)
+13. Force yourself to HODL with this Ethereum Smart Contract!
+14. Learn Electron in Less than 60 Minutes - Free Beginner s Course
+
+

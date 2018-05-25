@@ -1,0 +1,53 @@
+Setting up a MEAN4+ App (MongoDB, Express.js, Nodejs, Angular)
+MEAN Stack Application Tutorial   Build a MEAN Application From Scratch   MEAN Stack App   Edureka
+MEAN App From Scratch - MongoDB, Express, Angular 2 & NodeJS
+
+
+01. MEAN Stack Tutorial with Angular 2 - Part 1  Setup Server
+02. MEAN Stack Tutorial with Angular 2 - Part 2  Angular 2 Routing and Navigation
+03. MEAN Stack Tutorial with Angular 2 - Part 3  Registration MongoDB Model
+04. MEAN Stack Tutorial with Angular 2 - Part 4  Reactive Forms Form Validation for Registration Page
+05. MEAN Stack Tutorial with Angular 2 - Part 5  Angular 2 HTTP Module for User Registration
+06. MEAN Stack Tutorial with Angular 2 - Part 6  Login Authentication, Headers, & JWT
+07. MEAN Stack Tutorial with Angular 2 - Part 7  AuthGuard CanActivate Restricted Routes
+08. MEAN Stack Tutorial with Angular 2 - Part 8  CRUD  Create Blog Posts
+09. MEAN Stack Tutorial with Angular 2 - Part 9  CRUD - Read Get All Blogs
+10. MEAN Stack Tutorial with Angular 2 - Part 10  CRUD - Update Blogs
+11. MEAN Stack Tutorial with Angular 2 - Part 11  CRUD - Delete Blogs
+12. MEAN Stack Tutorial with Angular 2 - Part 12  Like & Dislike Blog Post
+13. MEAN Stack Tutorial with Angular 2 - Part 13  Post Comments on Blog Posts
+14. MEAN Stack Tutorial with Angular 2 - Part 14  Deploy App to Google Domains (Heroku)
+
+
+01. MEAN Stack Front To Back [Part 1] - Project Introduction
+02. MEAN Stack Front To Back [Part 2] - Express Setup & Routes
+03. MEAN Stack Front To Back [Part 3] - User Model & Register
+04. MEAN Stack Front To Back [Part 4] - API Authentication and Token
+05. MEAN Stack Front To Back [Part 5] - Angular 2 Components & Routes
+06. MEAN Stack Front To Back [Part 6] - Register Component, Validation & Flash Messages
+07. MEAN Stack Front To Back [Part 7] - Auth Service & User Registration
+08. MEAN Stack Front To Back [Part 8] - Login & Logout
+09. MEAN Stack Front To Back [Part 9] - Protected Requests & Auth Guard
+10. MEAN Stack Front To Back [Part 10] - App Deployment to Heroku
+
+
+05. Mean Stack Tutorial - 5 - Installing Node and Angular CLI
+06. Mean Stack Tutorial - 6 - Angular CLI
+07. Mean Stack Tutorial - 7 - Connecting with Express server
+08. Mean Stack Tutorial - 8 - Registering on mLab
+09. Mean Stack Tutorial - 9 - Creating Database, Collection and Documents
+10. Mean Stack Tutorial - 10 - Setting up Mongoose
+11. Mean Stack Tutorial - 11 - Get data from Mongodb
+12. Mean Stack Tutorial - 12 - Post data to Mongodb
+13. Mean Stack Tutorial - 13 - Update data in Mongodb
+14. Mean Stack Tutorial - 14 - Delete data from Mongodb
+15. Mean Stack Tutorial - 15 - Angular Routing
+16. Mean Stack Tutorial - 16 - Adding List and Detail Components
+17. Mean Stack Tutorial - 17 - Displaying Video List
+18. Mean Stack Tutorial - 18 - Displaying Video Detail
+19. Mean Stack Tutorial - 19 - Video Detail UI
+20. Mean Stack Tutorial - 20 - GET Videos from Database
+21. Mean Stack Tutorial - 21 - Playing a Video in Iframe
+22. Mean Stack Tutorial - 22 - Insert Video into Database
+23. Mean Stack Tutorial - 23 - Update Video in Database
+24. Mean Stack Tutorial - 24 - Delete Video from Database
